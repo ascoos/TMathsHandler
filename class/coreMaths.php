@@ -185,9 +185,6 @@ use Exception, InvalidArgumentException;
  * @method float volumeOfTetrahedralPyramid(float $side)                    Calculate the volume of a regular tetrahedral pyramid.
  * 
  * 
-
-
-
  * [ INHERITANCE TObject METHODS ]
  * @method string __toString()                                             Returns a string containing the name of this class.
  * @method bool Free(object $object)                                       Frees the memory of the Object or its clone.
